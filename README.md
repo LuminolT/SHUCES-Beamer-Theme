@@ -1,6 +1,6 @@
 # SHU-Beamer-Theme
 
-本项目基于THU-Beamer-Theme\cite{origin}稍作修改，用于上海大学计算机学院的日常报告用途。
+本项目基于THU-Beamer-Theme稍作修改，用于上海大学计算机学院的日常报告用途。
 改动内容包括：
 
 - 主题颜色更改
